@@ -1,0 +1,5 @@
+1. Instalar o Kivy e Criar um main.py que será o arquivo        OK!
+2. Criar a lógica do controle do tempo (Usando a lib time).     +- OK!
+3. Criar uma classe pra gerir o tempo e acessar as variáveis pelo main.py
+4. Estruturar o layout no aplicativo.
+5. Tornar o app mais bonito usando KivyMD.
